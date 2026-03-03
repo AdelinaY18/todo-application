@@ -44,4 +44,4 @@ The project was created to practice working with TypeScript in React, improve co
 
 
 
-"https://AdelinaY18.github.io/todo-application"
+[DEMO LINK](https://AdelinaY18.github.io/todo-application/)
