@@ -1,19 +1,25 @@
-# React TypeScript Starter Pack
+📝 Todo App — React & TypeScript
 
-To use this template click `Use this template`
+A modern, responsive Todo application built with React and TypeScript.
+This project was created to practice building scalable frontend applications using modern React patterns.
 
-### Available Scripts
+🚀 Demo
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+🔗 Live Demo: (add your working GitHub Pages link here)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+📌 Features
 
+➕ Add new tasks
 
-Todo App — React & TypeScript
+✅ Mark tasks as completed
 
-A modern and responsive Todo application built using React and TypeScript.
+🗑 Delete tasks
 
-Technologies Used:
+🔍 Filter tasks (all / active / completed)
+
+📱 Responsive design
+
+🛠 Technologies Used
 
 React
 
@@ -21,27 +27,69 @@ TypeScript
 
 SCSS (Sass)
 
-Functional Components & Hooks
+Functional Components
 
-GitHub Pages deployment
+React Hooks
 
+GitHub Pages for deployment
 
- About the Project:
+📂 Project Setup
+1️⃣ Clone the repository
+git clone https://github.com/your-username/your-repository-name.git
+2️⃣ Install dependencies
+npm install
+3️⃣ Run the project
+npm start
 
-This Todo application allows users to:
+The app will run on:
 
-Add new tasks
+http://localhost:3000
+📜 Available Scripts
+npm start
 
-Mark tasks as completed
+Runs the app in development mode.
 
-Delete tasks
+npm run build
 
-Filter tasks
+Builds the app for production.
 
+npm run deploy
 
+Deploys the project to GitHub Pages.
 
-The project was created to practice working with TypeScript in React, improve component structure, and write scalable frontend code.
+Before deploying, update the homepage field in package.json:
 
+"homepage": "https://your-username.github.io/repository-name"
+🎨 SCSS Preprocessor
 
+This project uses SCSS to write cleaner and more maintainable styles using:
 
-[DEMO LINK](https://AdelinaY18.github.io/todo-application/)
+variables
+
+nesting
+
+reusable styling structure
+
+📚 About the Project
+
+The goal of this project was to:
+
+practice TypeScript with React
+
+improve component architecture
+
+write clean and scalable frontend code
+
+learn deployment with GitHub Pages
+
+⭐ React TypeScript Starter Pack
+
+This project was created using a React + TypeScript starter template.
+
+To use the template:
+
+Click "Use this template"
+
+Create a new repository
+
+Start building your project
