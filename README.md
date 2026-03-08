@@ -5,7 +5,7 @@ This project was created to practice building scalable frontend applications usi
 
 🚀 Demo
 
-🔗 Live Demo: (add your working GitHub Pages link here)
+🔗 Live Demo: ([DEMO LINK](https://AdelinaY18.github.io/todo-application/))
 
 📌 Features
 
@@ -41,9 +41,6 @@ npm install
 3️⃣ Run the project
 npm start
 
-The app will run on:
-
-http://localhost:3000
 📜 Available Scripts
 npm start
 
@@ -57,10 +54,6 @@ npm run deploy
 
 Deploys the project to GitHub Pages.
 
-Before deploying, update the homepage field in package.json:
-
-"homepage": "https://your-username.github.io/repository-name"
-🎨 SCSS Preprocessor
 
 This project uses SCSS to write cleaner and more maintainable styles using:
 
